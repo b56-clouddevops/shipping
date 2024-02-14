@@ -38,7 +38,7 @@ metadata:
   name: shipping-cm
 data:
   CART_ENDPOINT: "cart-svc"
-  DB_HOST: "roboshop-dev.8m1fwx.0001.use1.cache.amazonaws.com"
+  DB_HOST: "roboshop-dev-mysql.c93whrwsdihk.us-east-1.rds.amazonaws.com"
 
 --- 
 # Creating ClusterIP Service ( this is the default type ) 
